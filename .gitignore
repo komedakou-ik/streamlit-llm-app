@@ -201,6 +201,14 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# --- Python venv placed at repo root ---
+/Scripts/
+/Lib/
+/Include/
+/share/
+/etc/
+/pyvenv.cfg
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
